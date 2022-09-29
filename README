@@ -1,0 +1,1 @@
+hz new -idl ./idl/zgs_service_discovery.thrift -module github.com/likenxy/zgs_service_discovery
